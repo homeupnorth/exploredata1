@@ -2,6 +2,11 @@
 # Project 1
 # March 4, 2015
 #
+#
+# This is all of the code I started with. The individual .R files
+# are better for evaluation, but I wanted to give you my working
+# files too.
+#
 setwd("~/Documents/Coursera/Exploratory Data Analysis")
 # download data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 # unzip in my working directory
